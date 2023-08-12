@@ -1,3 +1,16 @@
+# quickly get started with sveltekit and phaserjs with this template
+
+hit npm i
+npm run dev
+look at the scene and move around a bit
+check out the template code and go from there
+
+
+
+
+
+
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
