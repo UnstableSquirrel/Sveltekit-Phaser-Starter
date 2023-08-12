@@ -14,6 +14,9 @@ Look at the scene and move around a bit. Check out the template code and go from
 
 
 
+##########################################################################################################################################
+
+# infos about svelte
 
 
 # create-svelte
