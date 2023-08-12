@@ -1,9 +1,14 @@
 # quickly get started with sveltekit and phaserjs with this template
 
-hit npm i
+```bash
+# install all dependencies 
+npm install
+
+# run the server 
 npm run dev
-look at the scene and move around a bit
-check out the template code and go from there
+```
+
+Look at the scene and move around a bit. Check out the template code and go from there.
 
 
 
